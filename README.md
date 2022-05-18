@@ -63,7 +63,6 @@ else:
 ```
 
 # Output : 
-![Screenshot (120)](https://user-images.githubusercontent.com/75235334/166264189-755b4078-b252-4495-a73f-cdf0e1994f85.png)
-
+![Screenshot (7)](https://user-images.githubusercontent.com/75235334/168961203-50993d64-4fb1-4784-a8c6-809ccb07000a.png)
 # Result:
 Thus, the program to fit binomial distribution was implemented
